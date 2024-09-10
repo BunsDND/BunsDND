@@ -1,4 +1,3 @@
-👋 Hi, I’m @Bansi19 (y'all can call me Buns/Vance),
 👀 I’m interested in Programming
 🌱 I’m currently learning Basic Programming Using Java,C#,C++, and Python
 💞️ I’m looking to collaborate on Group Study!!
